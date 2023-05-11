@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: e32c394ed77f30246b9e22e71191818e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - maleFarmerBaseTexture: {instanceID: 0}
+  - femaleFarmerBaseTexture: {instanceID: 0}
+  - shirtsBaseTexture: {instanceID: 0}
+  - hairBaseTexture: {instanceID: 0}
+  - hatsBaseTexture: {instanceID: 0}
+  - adornmentsBaseTexture: {instanceID: 0}
+  - farmerBaseCustomised: {instanceID: 0}
+  - hairCustomised: {instanceID: 0}
+  - hatsCustomised: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
